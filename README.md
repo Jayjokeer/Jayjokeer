@@ -49,7 +49,7 @@ Feel free to explore my repositories for more code, experiments, and open-source
 ## Connect with Me
 
 - **GitHub:** [Jayjokeer](https://github.com/Jayjokeer)
-- **LinkedIn:** [John Tom]([https://www.linkedin.com/in/jayjokeer](https://www.linkedin.com/in/john-tom-728183185/))  
+- **LinkedIn:** ([https://www.linkedin.com/in/jayjokeer](https://www.linkedin.com/in/john-tom-728183185/))  
 - **Twitter:** ([https://twitter.com/Jayjokeer](https://twitter.com/JayTeejokerr?t=5C04krNExty03i7EFRdJgg&s=09))  
 
 
