@@ -1,4 +1,4 @@
-# Hi there, I'm Jayjokeer 👋
+# Hi there, I'm Tom John (Jayjokeer) 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in building robust backend systems, scalable APIs, and innovative full-stack applications. I enjoy diving into challenging projects, exploring new technologies, and contributing to the open-source community.
 
@@ -39,8 +39,6 @@ Feel free to explore my repositories for more code, experiments, and open-source
 ---
 
 ## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayjokeer&show_icons=true&theme=radical)](https://github.com/Jayjokeer)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayjokeer&layout=compact&theme=radical)](https://github.com/Jayjokeer)
 
