@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## About Me
 
-- 🔭 **Current Focus:** Building and optimizing backend solutions with Node.js, Express, and MongoDB.
+- 🔭 **Current Focus:** Building and optimizing backend solutions with Node.js, Express, NestJs, PostgreSQL, MySQL and MongoDB.
 - 🌱 **Always Learning:** I'm constantly exploring emerging technologies, tools, and best practices in software development.
 - 👯 **Collaboration:** I love working on open-source projects and collaborating with like-minded developers.
 - 💬 **Ask Me About:** API design, microservices architecture, and effective code optimization.
