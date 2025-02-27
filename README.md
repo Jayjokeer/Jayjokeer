@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 🌱 **Always Learning:** I'm constantly exploring emerging technologies, tools, and best practices in software development.
 - 👯 **Collaboration:** I love working on open-source projects and collaborating with like-minded developers.
 - 💬 **Ask Me About:** API design, microservices architecture, and effective code optimization.
-- 📫 **Reach Me At:** [jayjokeer@example.com](mailto:johntommokaa@gmail.com)
+- 📫 **Reach Me At:** [johntommokaa@gmail.com](mailto:johntommokaa@gmail.com)
 
 ---
 
